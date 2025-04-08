@@ -1,0 +1,500 @@
+patient_id,country,country_of_procurement,state_province_of_procurement,city_of_procurement
+TCGA0001,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0002,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0003,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0004,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0005,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0006,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0007,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0008,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0009,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0010,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0011,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0012,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0013,United States,United States,Pennsylvania,Piitsburgh
+TCGA0014,United States,United States,Pennsylvania,Pittsburgh
+TCGA0015,Russia,Russia,0,Tver
+TCGA0016,Russia,Russia,0,Tver
+TCGA0017,Russia,Russia,0,Tver
+TCGA0018,Russia,Russia,0,Tver
+TCGA0019,Russia,Russia,0,Tver
+TCGA0020,Russia,Russia,0,Tver
+TCGA0021,Ukraine,Ukraine,0,Lviv
+TCGA0022,Ukraine,Ukraine,0,Kiev
+TCGA0023,Ukraine,Ukraine,0,Lviv
+TCGA0024,Vietnam,Vietnam,0,Hanoi
+TCGA0025,Russia,Russia,0,Tver
+TCGA0026,Ukraine,Ukraine,0,Lviv
+TCGA0027,Russia,Russia,0,Tver
+TCGA0028,Vietnam,Vietnam,0,Hanoi
+TCGA0029,Ukraine,Ukraine,0,LVIV
+TCGA0030,Bulgaria,Bulgaria,0,0
+TCGA0031,Vietnam,Vietnam,Hanoi,Hanoi
+TCGA0032,Vietnam,Vietnam,0,Hanoi
+TCGA0033,Ukraine,Ukraine,0,Lviv
+TCGA0034,Canada,Canada,Ontario,Toronto
+TCGA0035,Canada,Canada,Ontario,Toronto
+TCGA0036,Canada,Canada,Ontario,Toronto
+TCGA0037,Canada,Canada,Ontario,Toronto
+TCGA0038,Canada,Canada,Ontario,Toronto
+TCGA0039,Canada,Canada,Ontario,Toronto
+TCGA0040,Canada,Canada,Ontario,Toronto
+TCGA0041,Canada,Canada,Ontario,Toronto
+TCGA0042,Canada,Canada,Ontario,Toronto
+TCGA0043,Canada,Canada,Ontario,Toronto
+TCGA0044,Canada,Canada,Ontario,Toronto
+TCGA0045,Canada,Canada,Ontario,Toronto
+TCGA0046,Canada,Canada,Ontario,Toronto
+TCGA0047,United States,United States,New York,New York
+TCGA0048,United States,United States,MI,Ann Arbor
+TCGA0049,United States,United States,MI,Ann Arbor
+TCGA0050,United States,United States,MI,Ann Arbor
+TCGA0051,United States,United States,MI,Ann Arbor
+TCGA0052,United States,United States,MI,Ann Arbor
+TCGA0053,United States,United States,MI,Ann Arbor
+TCGA0054,United States,United States,Mi,Ann Arbor
+TCGA0055,United States,United States,Mi,Ann Arbor
+TCGA0056,United States,United States,Mi,Ann Arbor
+TCGA0057,United States,United States,Mi,Ann Arbor
+TCGA0058,United States,United States,Mi,Ann Arbor
+TCGA0059,United States,United States,Mi,ANn Arbor
+TCGA0060,United States,United States,Mi,Ann arbor
+TCGA0061,United States,United States,Mi,Ann Arbor
+TCGA0062,United States,United States,Michigan,Ann Arbor
+TCGA0063,United States,United States,Mi,Ann Arbor
+TCGA0064,United States,United States,Mi,Ann Arbor
+TCGA0065,United States,United States,Mi,Ann Arbor
+TCGA0066,United States,United States,Michigan,Ann Arbor
+TCGA0067,United States,United States,Mi,Ann Arbor
+TCGA0068,United States,United States,Michigan,Ann Arbor
+TCGA0069,United States,United States,Michigan,Ann Arbor
+TCGA0070,United States,United States,Mi,Ann Arbor
+TCGA0071,United States,United States,michigan,ann arbor
+TCGA0072,United States,United States,michigan,ann arbor
+TCGA0073,United States,United States,michigan,ann arbor
+TCGA0074,United States,United States,michigan,ann arbor
+TCGA0075,United States,United States,michigan,ann arbor
+TCGA0076,United States,United States,michigan,ann arbor
+TCGA0077,United States,United States,michigan,ann arbor
+TCGA0078,United States,United States,michigan,ann arbor
+TCGA0079,United States,United States,MI,Ann Arbor
+TCGA0080,United States,United States,MI,ann Arbor
+TCGA0081,United States,United States,michigan,ann arbor
+TCGA0082,United States,United States,michigan,ann arbor
+TCGA0083,United States,United States,michigan,ann arbor
+TCGA0084,United States,United States,michigan,ann arbor
+TCGA0085,United States,United States,michigan,ann arbor
+TCGA0086,United States,United States,michigan,ann arbor
+TCGA0087,United States,United States,michigan,ann arbor
+TCGA0088,United States,United States,michigan,ann arbor
+TCGA0089,United States,United States,michigan,ann arbor
+TCGA0090,United States,United States,michigan,ann arbor
+TCGA0091,United States,United States,michigan,ann arbor
+TCGA0092,United States,United States,michigan,ann arbor
+TCGA0093,United States,United States,michigan,ann arbor
+TCGA0094,United States,United States,michigan,ann arbor
+TCGA0095,United States,United States,michigan,ann arbor
+TCGA0096,United States,United States,Delaware,Newark
+TCGA0097,United States,United States,Delaware,Newark
+TCGA0098,Vietnam,Vietnam,0,0
+TCGA0099,Vietnam,Vietnam,0,0
+TCGA0100,Vietnam,Vietnam,0,0
+TCGA0101,Vietnam,Vietnam,0,0
+TCGA0102,Vietnam,Vietnam,0,0
+TCGA0103,Vietnam,Vietnam,0,0
+TCGA0104,Vietnam,Vietnam,0,0
+TCGA0105,Vietnam,Vietnam,0,0
+TCGA0106,Vietnam,Vietnam,0,0
+TCGA0107,Vietnam,Vietnam,0,0
+TCGA0108,Vietnam,Vietnam,0,0
+TCGA0109,Vietnam,Vietnam,0,0
+TCGA0110,Vietnam,Vietnam,0,0
+TCGA0111,Vietnam,Vietnam,0,0
+TCGA0112,Vietnam,Vietnam,0,0
+TCGA0113,Vietnam,Vietnam,0,0
+TCGA0114,Vietnam,Vietnam,0,0
+TCGA0115,Vietnam,Vietnam,0,0
+TCGA0116,Vietnam,Vietnam,0,0
+TCGA0117,Vietnam,Vietnam,0,0
+TCGA0118,Vietnam,Vietnam,0,0
+TCGA0119,Vietnam,Vietnam,0,0
+TCGA0120,Vietnam,Vietnam,0,0
+TCGA0121,Vietnam,Vietnam,0,0
+TCGA0122,Vietnam,Vietnam,0,0
+TCGA0123,Vietnam,Vietnam,0,0
+TCGA0124,Vietnam,Vietnam,0,0
+TCGA0125,Vietnam,Vietnam,0,0
+TCGA0126,Vietnam,Vietnam,0,0
+TCGA0127,Vietnam,Vietnam,0,0
+TCGA0128,Vietnam,Vietnam,0,0
+TCGA0129,Vietnam,Vietnam,0,0
+TCGA0130,Vietnam,Vietnam,0,0
+TCGA0131,Vietnam,Vietnam,0,0
+TCGA0132,Vietnam,Vietnam,0,0
+TCGA0133,Vietnam,Vietnam,0,0
+TCGA0134,Vietnam,Vietnam,0,0
+TCGA0135,Vietnam,Vietnam,0,0
+TCGA0136,Canada,Canada,Ontario,London
+TCGA0137,United States,United States,Georgia,Atlanta
+TCGA0138,United States,United States,Georgia,Atlanta
+TCGA0139,United States,United States,Texas,Houston
+TCGA0140,United States,United States,TX,Houston
+TCGA0141,United States,United States,Texas,Houston
+TCGA0142,United States,United States,Texas,Houston
+TCGA0143,United States,United States,Texas,Houston
+TCGA0144,United States,United States,Texas,Houston
+TCGA0145,United States,United States,TX,Houston
+TCGA0146,United States,United States,TX,Houston
+TCGA0147,United States,United States,TX,Houston
+TCGA0148,United States,United States,texas,houston
+TCGA0149,United States,United States,0,0
+TCGA0150,United States,United States,texas,houston
+TCGA0151,United States,United States,Texas,Houston
+TCGA0152,Australia,Australia,Victoria,Melbourne
+TCGA0153,United States,United States,Indiana,Indianapolis
+TCGA0154,United States,United States,Indiana,Indianapolis
+TCGA0155,United States,United States,NC,Durham
+TCGA0156,United States,United States,NC,Durham
+TCGA0157,United States,United States,NC,Durham
+TCGA0158,United States,United States,NC,Durham
+TCGA0159,United States,United States,NC,Durham
+TCGA0160,United States,United States,NC,Durham
+TCGA0161,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0162,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0163,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0164,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0165,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0166,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0167,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0168,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0169,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0170,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0171,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0172,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0173,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0174,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0175,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0176,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0177,United States,United States,az,phoenix
+TCGA0178,0,0,0,0
+TCGA0179,Brazil,Brazil,0,0
+TCGA0180,0,0,0,0
+TCGA0181,Russia,Russia,0,Saint petersburg
+TCGA0182,Russia,Russia,0,Saint petersburg
+TCGA0183,Russia,Russia,0,Saint Petersburg
+TCGA0184,Russia,Russia,0,Saint Petersburg
+TCGA0185,United Kingdom,United Kingdom,Scotland,Dundee
+TCGA0186,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0187,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0188,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0189,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0190,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0191,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0192,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0193,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0194,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0195,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0196,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0197,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0198,United States,United States,Pennsylvania,Piitsburgh
+TCGA0199,United States,United States,Pennsylvania,Pittsburgh
+TCGA0200,United States,United States,Pennsylvania,Pittsburgh
+TCGA0201,Russia,Russia,0,Tver
+TCGA0202,Russia,Russia,0,Tver
+TCGA0203,Russia,Russia,0,Tver
+TCGA0204,Russia,Russia,0,Tver
+TCGA0205,Russia,Russia,0,Tver
+TCGA0206,Russia,Russia,0,Tver
+TCGA0207,Ukraine,Ukraine,0,Lviv
+TCGA0208,Ukraine,Ukraine,0,Kiev
+TCGA0209,Ukraine,Ukraine,0,Lviv
+TCGA0210,Vietnam,Vietnam,0,Hanoi
+TCGA0211,Russia,Russia,0,Tver
+TCGA0212,Ukraine,Ukraine,0,Lviv
+TCGA0213,Russia,Russia,0,Tver
+TCGA0214,Vietnam,Vietnam,0,Hanoi
+TCGA0215,Ukraine,Ukraine,0,LVIV
+TCGA0216,Bulgaria,Bulgaria,0,0
+TCGA0217,Vietnam,Vietnam,Hanoi,Hanoi
+TCGA0218,Vietnam,Vietnam,0,Hanoi
+TCGA0219,Ukraine,Ukraine,0,Lviv
+TCGA0220,Canada,Canada,Ontario,Toronto
+TCGA0221,Canada,Canada,Ontario,Toronto
+TCGA0222,Canada,Canada,Ontario,Toronto
+TCGA0223,Canada,Canada,Ontario,Toronto
+TCGA0224,Canada,Canada,Ontario,Toronto
+TCGA0225,Canada,Canada,Ontario,Toronto
+TCGA0226,Canada,Canada,Ontario,Toronto
+TCGA0227,Canada,Canada,Ontario,Toronto
+TCGA0228,Canada,Canada,Ontario,Toronto
+TCGA0229,Canada,Canada,Ontario,Toronto
+TCGA0230,Canada,Canada,Ontario,Toronto
+TCGA0231,Canada,Canada,Ontario,Toronto
+TCGA0232,Canada,Canada,Ontario,Toronto
+TCGA0233,Canada,Canada,Ontario,Toronto
+TCGA0234,Canada,Canada,Ontario,Toronto
+TCGA0235,United States,United States,New York,New York
+TCGA0236,United States,United States,MI,Ann Arbor
+TCGA0237,United States,United States,MI,Ann Arbor
+TCGA0238,United States,United States,MI,Ann Arbor
+TCGA0239,United States,United States,MI,Ann Arbor
+TCGA0240,United States,United States,MI,Ann Arbor
+TCGA0241,United States,United States,MI,Ann Arbor
+TCGA0242,United States,United States,MI,Ann Arbor
+TCGA0243,United States,United States,MI,Ann Arbor
+TCGA0244,United States,United States,MI,Ann Arbor
+TCGA0245,United States,United States,Mi,Ann Arbor
+TCGA0246,United States,United States,Mi,Ann Arbor
+TCGA0247,United States,United States,Mi,Ann Arbor
+TCGA0248,United States,United States,Mi,Ann Arbor
+TCGA0249,United States,United States,Mi,Ann Arbor
+TCGA0250,United States,United States,Mi,Ann Arbor
+TCGA0251,United States,United States,Mi,Ann Arbor
+TCGA0252,United States,United States,Mi,Ann Arbor
+TCGA0253,United States,United States,Mi,ANn Arbor
+TCGA0254,United States,United States,Mi,Ann arbor
+TCGA0255,United States,United States,Mi,Ann Arbor
+TCGA0256,United States,United States,Michigan,Ann Arbor
+TCGA0257,United States,United States,Mi,Ann Arbor
+TCGA0258,United States,United States,Mi,Ann Arbor
+TCGA0259,United States,United States,Mi,Ann Arbor
+TCGA0260,United States,United States,Michigan,Ann Arbor
+TCGA0261,United States,United States,Mi,Ann Arbor
+TCGA0262,United States,United States,Michigan,Ann Arbor
+TCGA0263,United States,United States,Michigan,Ann Arbor
+TCGA0264,United States,United States,Mi,Ann Arbor
+TCGA0265,United States,United States,michigan,ann arbor
+TCGA0266,United States,United States,michigan,ann arbor
+TCGA0267,United States,United States,michigan,ann arbor
+TCGA0268,United States,United States,michigan,ann arbor
+TCGA0269,United States,United States,michigan,ann arbor
+TCGA0270,United States,United States,michigan,ann arbor
+TCGA0271,United States,United States,michigan,ann arbor
+TCGA0272,United States,United States,michigan,ann arbor
+TCGA0273,United States,United States,michigan,ann arbor
+TCGA0274,United States,United States,michigan,ann arbor
+TCGA0275,United States,United States,MI,Ann Arbor
+TCGA0276,United States,United States,MI,ann Arbor
+TCGA0277,United States,United States,michigan,ann arbor
+TCGA0278,United States,United States,michigan,ann arbor
+TCGA0279,United States,United States,michigan,ann arbor
+TCGA0280,United States,United States,michigan,ann arbor
+TCGA0281,United States,United States,michigan,ann arbor
+TCGA0282,United States,United States,michigan,ann arbor
+TCGA0283,United States,United States,michigan,ann arbor
+TCGA0284,United States,United States,michigan,ann arbor
+TCGA0285,United States,United States,michigan,ann arbor
+TCGA0286,United States,United States,michigan,ann arbor
+TCGA0287,United States,United States,michigan,ann arbor
+TCGA0288,United States,United States,michigan,ann arbor
+TCGA0289,United States,United States,michigan,ann arbor
+TCGA0290,United States,United States,michigan,ann arbor
+TCGA0291,United States,United States,michigan,ann arbor
+TCGA0292,United States,United States,michigan,ann arbor
+TCGA0293,United States,United States,michigan,ann arbor
+TCGA0294,United States,United States,Delaware,Newark
+TCGA0295,United States,United States,Delaware,Newark
+TCGA0296,Vietnam,Vietnam,0,0
+TCGA0297,Vietnam,Vietnam,0,0
+TCGA0298,Vietnam,Vietnam,0,0
+TCGA0299,Vietnam,Vietnam,0,0
+TCGA0300,Vietnam,Vietnam,0,0
+TCGA0301,Vietnam,Vietnam,0,0
+TCGA0302,Vietnam,Vietnam,0,0
+TCGA0303,Vietnam,Vietnam,0,0
+TCGA0304,Vietnam,Vietnam,0,0
+TCGA0305,Vietnam,Vietnam,0,0
+TCGA0306,Vietnam,Vietnam,0,0
+TCGA0307,Vietnam,Vietnam,0,0
+TCGA0308,Vietnam,Vietnam,0,0
+TCGA0309,Vietnam,Vietnam,0,0
+TCGA0310,Vietnam,Vietnam,0,0
+TCGA0311,Vietnam,Vietnam,0,0
+TCGA0312,Vietnam,Vietnam,0,0
+TCGA0313,Vietnam,Vietnam,0,0
+TCGA0314,Vietnam,Vietnam,0,0
+TCGA0315,Vietnam,Vietnam,0,0
+TCGA0316,Vietnam,Vietnam,0,0
+TCGA0317,Vietnam,Vietnam,0,0
+TCGA0318,Vietnam,Vietnam,0,0
+TCGA0319,Vietnam,Vietnam,0,0
+TCGA0320,Vietnam,Vietnam,0,0
+TCGA0321,Vietnam,Vietnam,0,0
+TCGA0322,Vietnam,Vietnam,0,0
+TCGA0323,Vietnam,Vietnam,0,0
+TCGA0324,Vietnam,Vietnam,0,0
+TCGA0325,Vietnam,Vietnam,0,0
+TCGA0326,Vietnam,Vietnam,0,0
+TCGA0327,Vietnam,Vietnam,0,0
+TCGA0328,Vietnam,Vietnam,0,0
+TCGA0329,Vietnam,Vietnam,0,0
+TCGA0330,Vietnam,Vietnam,0,0
+TCGA0331,Vietnam,Vietnam,0,0
+TCGA0332,Vietnam,Vietnam,0,0
+TCGA0333,Vietnam,Vietnam,0,0
+TCGA0334,Canada,Canada,Ontario,London
+TCGA0335,United States,United States,Georgia,Atlanta
+TCGA0336,United States,United States,Georgia,Atlanta
+TCGA0337,United States,United States,Georgia,Atlanta
+TCGA0338,United States,United States,Texas,Houston
+TCGA0339,United States,United States,TX,Houston
+TCGA0340,United States,United States,Texas,Houston
+TCGA0341,United States,United States,Texas,Houston
+TCGA0342,United States,United States,Texas,Houston
+TCGA0343,United States,United States,Texas,Houston
+TCGA0344,United States,United States,TX,Houston
+TCGA0345,United States,United States,TX,Houston
+TCGA0346,United States,United States,TX,Houston
+TCGA0347,United States,United States,texas,houston
+TCGA0348,United States,United States,0,0
+TCGA0349,United States,United States,texas,houston
+TCGA0350,United States,United States,Texas,Houston
+TCGA0351,Australia,Australia,Victoria,Melbourne
+TCGA0352,United States,United States,Indiana,Indianapolis
+TCGA0353,United States,United States,Indiana,Indianapolis
+TCGA0354,United States,United States,Indiana,Indianapolis
+TCGA0355,United States,United States,NC,Durham
+TCGA0356,United States,United States,NC,Durham
+TCGA0357,United States,United States,NC,Durham
+TCGA0358,United States,United States,NC,Durham
+TCGA0359,United States,United States,NC,Durham
+TCGA0360,United States,United States,NC,Durham
+TCGA0361,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0362,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0363,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0364,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0365,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0366,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0367,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0368,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0369,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0370,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0371,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0372,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0373,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0374,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0375,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0376,Brazil,Brazil,Sao Paulo,Barretos
+TCGA0377,United States,United States,az,phoenix
+TCGA0378,0,0,0,0
+TCGA0379,Brazil,Brazil,0,0
+TCGA0380,0,0,0,0
+TCGA0381,Russia,Russia,0,Saint petersburg
+TCGA0382,Russia,Russia,0,Saint petersburg
+TCGA0383,Russia,Russia,0,Saint Petersburg
+TCGA0384,Russia,Russia,0,Saint Petersburg
+TCGA0385,United Kingdom,United Kingdom,Scotland,Dundee
+TCGA0386,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0387,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0388,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0389,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0390,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0391,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0392,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0393,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0394,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0395,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0396,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0397,Netherlands,Netherlands,ZH,Rotterdam
+TCGA0398,United States,United States,Pennsylvania,Piitsburgh
+TCGA0399,United States,United States,Pennsylvania,Pittsburgh
+TCGA0400,United States,United States,Pennsylvania,Pittsburgh
+TCGA0401,Russia,Russia,0,Tver
+TCGA0402,Russia,Russia,0,Tver
+TCGA0403,Russia,Russia,0,Tver
+TCGA0404,Russia,Russia,0,Tver
+TCGA0405,Russia,Russia,0,Tver
+TCGA0406,Russia,Russia,0,Tver
+TCGA0407,Ukraine,Ukraine,0,Lviv
+TCGA0408,Ukraine,Ukraine,0,Kiev
+TCGA0409,Ukraine,Ukraine,0,Lviv
+TCGA0410,Vietnam,Vietnam,0,Hanoi
+TCGA0411,Russia,Russia,0,Tver
+TCGA0412,Ukraine,Ukraine,0,Lviv
+TCGA0413,Russia,Russia,0,Tver
+TCGA0414,Vietnam,Vietnam,0,Hanoi
+TCGA0415,Ukraine,Ukraine,0,LVIV
+TCGA0416,Bulgaria,Bulgaria,0,0
+TCGA0417,Vietnam,Vietnam,Hanoi,Hanoi
+TCGA0418,Vietnam,Vietnam,0,Hanoi
+TCGA0419,Ukraine,Ukraine,0,Lviv
+TCGA0420,Canada,Canada,Ontario,Toronto
+TCGA0421,Canada,Canada,Ontario,Toronto
+TCGA0422,Canada,Canada,Ontario,Toronto
+TCGA0423,Canada,Canada,Ontario,Toronto
+TCGA0424,Canada,Canada,Ontario,Toronto
+TCGA0425,Canada,Canada,Ontario,Toronto
+TCGA0426,Canada,Canada,Ontario,Toronto
+TCGA0427,Canada,Canada,Ontario,Toronto
+TCGA0428,Canada,Canada,Ontario,Toronto
+TCGA0429,Canada,Canada,Ontario,Toronto
+TCGA0430,Canada,Canada,Ontario,Toronto
+TCGA0431,Canada,Canada,Ontario,Toronto
+TCGA0432,Canada,Canada,Ontario,Toronto
+TCGA0433,Canada,Canada,Ontario,Toronto
+TCGA0434,Canada,Canada,Ontario,Toronto
+TCGA0435,United States,United States,New York,New York
+TCGA0436,United States,United States,MI,Ann Arbor
+TCGA0437,United States,United States,MI,Ann Arbor
+TCGA0438,United States,United States,MI,Ann Arbor
+TCGA0439,United States,United States,MI,Ann Arbor
+TCGA0440,United States,United States,MI,Ann Arbor
+TCGA0441,United States,United States,MI,Ann Arbor
+TCGA0442,United States,United States,MI,Ann Arbor
+TCGA0443,United States,United States,MI,Ann Arbor
+TCGA0444,United States,United States,MI,Ann Arbor
+TCGA0445,United States,United States,Mi,Ann Arbor
+TCGA0446,United States,United States,Mi,Ann Arbor
+TCGA0447,United States,United States,Mi,Ann Arbor
+TCGA0448,United States,United States,Mi,Ann Arbor
+TCGA0449,United States,United States,Mi,Ann Arbor
+TCGA0450,United States,United States,Mi,Ann Arbor
+TCGA0451,United States,United States,Mi,Ann Arbor
+TCGA0452,United States,United States,Mi,Ann Arbor
+TCGA0453,United States,United States,Mi,ANn Arbor
+TCGA0454,United States,United States,Mi,Ann arbor
+TCGA0455,United States,United States,Mi,Ann Arbor
+TCGA0456,United States,United States,Michigan,Ann Arbor
+TCGA0457,United States,United States,Mi,Ann Arbor
+TCGA0458,United States,United States,Mi,Ann Arbor
+TCGA0459,United States,United States,Mi,Ann Arbor
+TCGA0460,United States,United States,Michigan,Ann Arbor
+TCGA0461,United States,United States,Mi,Ann Arbor
+TCGA0462,United States,United States,Michigan,Ann Arbor
+TCGA0463,United States,United States,Michigan,Ann Arbor
+TCGA0464,United States,United States,Mi,Ann Arbor
+TCGA0465,United States,United States,michigan,ann arbor
+TCGA0466,United States,United States,michigan,ann arbor
+TCGA0467,United States,United States,michigan,ann arbor
+TCGA0468,United States,United States,michigan,ann arbor
+TCGA0469,United States,United States,michigan,ann arbor
+TCGA0470,United States,United States,michigan,ann arbor
+TCGA0471,United States,United States,michigan,ann arbor
+TCGA0472,United States,United States,michigan,ann arbor
+TCGA0473,United States,United States,michigan,ann arbor
+TCGA0474,United States,United States,michigan,ann arbor
+TCGA0475,United States,United States,MI,Ann Arbor
+TCGA0476,United States,United States,MI,ann Arbor
+TCGA0477,United States,United States,michigan,ann arbor
+TCGA0478,United States,United States,michigan,ann arbor
+TCGA0479,United States,United States,michigan,ann arbor
+TCGA0480,United States,United States,michigan,ann arbor
+TCGA0481,United States,United States,michigan,ann arbor
+TCGA0482,United States,United States,michigan,ann arbor
+TCGA0483,United States,United States,michigan,ann arbor
+TCGA0484,United States,United States,michigan,ann arbor
+TCGA0485,United States,United States,michigan,ann arbor
+TCGA0486,United States,United States,michigan,ann arbor
+TCGA0487,United States,United States,michigan,ann arbor
+TCGA0488,United States,United States,michigan,ann arbor
+TCGA0489,United States,United States,michigan,ann arbor
+TCGA0490,United States,United States,michigan,ann arbor
+TCGA0491,United States,United States,michigan,ann arbor
+TCGA0492,United States,United States,michigan,ann arbor
+TCGA0493,United States,United States,michigan,ann arbor
+TCGA0494,United States,United States,Delaware,Newark
+TCGA0495,United States,United States,Delaware,Newark
+TCGA0496,Vietnam,Vietnam,0,0
+TCGA0497,Vietnam,Vietnam,0,0
+TCGA0498,Vietnam,Vietnam,0,0
+TCGA0499,Vietnam,Vietnam,0,0
